@@ -1,5 +1,9 @@
 package br.com.caelum.Funcionários;
 
+
+/**@category: Classe abstrata;
+ * @param: possui getBonificacao como método abstrato.
+ * */
 public abstract class Funcionarios {
 
 	protected String nome;
